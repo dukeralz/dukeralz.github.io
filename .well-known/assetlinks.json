@@ -1,9 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.crystal.android.deeplink",
-    "sha256_cert_fingerprints":
-    ["C4:B4:9C:48:44:BA:E0:94:4A:F1:55:C9:7C:0B:35:E6:26:0B:50:02:AE:24:0D:9F:64:EE:A3:86:24:2A:7B:D1"]
-  }
-}]
+[
+	{
+		"relation": [
+			"delegate_permission/common.handle_all_urls"
+		],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.derkuz.mockOneSignal",
+			"sha256_cert_fingerprints": [
+				"0E:6B:50:1F:D9:FB:95:7C:7B:9B:48:A3:32:D8:1B:16:1C:78:D4:E5:27:C7:D2:66:8D:0D:85:C5:68:9F:76:85"
+			]
+		}
+	}
+]
